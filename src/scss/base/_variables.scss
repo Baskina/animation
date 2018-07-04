@@ -1,0 +1,20 @@
+$main-font: sans-serif;
+
+$side-indent: 1rem;
+$max-width: calc(1220px + #{$side-indent * 2});
+
+$root-fz: 20px;
+
+$retina-bg-path: '../images/bg/';
+$retina-dpr: (1.5, 2, 3);
+
+$color-black: #1d1c1d;
+$color-white: #ffffff;
+
+$desktop-l: 1680px;
+$desktop-m: 1366px;
+$desktop-s: 1280px;
+$tablet-l: 1024px;
+$tablet-m: 768px;
+$mobile-m: 640px;
+$mobile-s: 480px;
