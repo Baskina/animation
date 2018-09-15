@@ -1,5 +1,5 @@
 # animation
-## This is examle page of css animation.
+## This is examle page of css animation
 [Demo](https://ekaterinabaskina.github.io/animation/skate/)
 ***
 Designed by Serhii Polyvanyi:
