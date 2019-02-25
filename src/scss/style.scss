@@ -457,6 +457,9 @@ img {
   &__model {
     height: 100%;
     width: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
     overflow: hidden;
     background-repeat: no-repeat;
     background-size: contain;
